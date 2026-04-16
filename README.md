@@ -44,3 +44,9 @@
 - [JohnyDeath/cc-1c-skills](https://github.com/JohnyDeath/cc-1c-skills) - upstream-набор скилов, который лег в основу состава [`.cursor/skills`](.cursor/skills/).
 - [comol/cursor_rules_1c](https://github.com/comol/cursor_rules_1c) - upstream-набор правил и подходов, использованный как отправная точка и затем адаптированный под универсальный контур.
 - [1c-syntax/ssl_3_1](https://github.com/1c-syntax/ssl_3_1) и [1c-syntax/ssl_3_2](https://github.com/1c-syntax/ssl_3_2) - исходники БСП для поиска готовых решений и примеров по коду.
+
+## Лицензия
+
+Код и материалы этого репозитория распространяются по лицензии MIT, см. файл [`LICENSE`](LICENSE).
+
+Зависимости и сторонние репозитории, которые вы подключаете отдельно (например, БСП в `vendor/ssl_3_1` и `vendor/ssl_3_2`), продолжают распространяться по их собственным лицензиям.
