@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "user-onec-buddy-mcp": {
+      "url": "http://localhost:6002/mcp",
+      "connection_id": "1c_buddy_service_001",
+      "alwaysAllow": [],
+      "type": "streamable-http",
+      "timeout": 300,
+      "disabled": false
+    }
+  }
+}

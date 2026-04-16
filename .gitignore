@@ -1,0 +1,17 @@
+.DS_Store
+
+# OS / IDE
+.idea/
+.vscode/
+*.swp
+
+# Secrets (keep local)
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+
+# Logs
+*.log
+
