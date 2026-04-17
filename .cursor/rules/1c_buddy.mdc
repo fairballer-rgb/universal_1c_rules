@@ -3,7 +3,7 @@ description: Правило работы с onec-buddy MCP
 alwaysApply: true
 ---
 
-# USS: onec-buddy MCP
+# onec-buddy MCP
 
 Обязательный MCP-сервер комплекта: `user-onec-buddy-mcp`.
 
